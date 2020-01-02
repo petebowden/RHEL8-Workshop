@@ -17,11 +17,7 @@ endif::[]
 [discrete]
 == Presented By
 
-  * Christoph Doerbeck
-  * Karl Abbott
-  * Eddie Chen
-  * Gordon Keegan
-  * Matt St. Onge
+  * Pete Bowden
   
 [discrete]
 == Introduction
