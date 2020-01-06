@@ -16,8 +16,15 @@ endif::[]
 
 [discrete]
 == Presented By
+* Pete Bowden
 
-  * Pete Bowden
+[discrete]
+== Originally Presented at Summit 2019 By:
+* Christoph Doerbeck
+* Karl Abbott
+* Eddie Chen
+* Gordon Keegan
+* Matt St. Onge
   
 [discrete]
 == Introduction
