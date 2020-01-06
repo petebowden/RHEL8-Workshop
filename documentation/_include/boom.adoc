@@ -52,12 +52,14 @@ That was easy!
 == Add Capacity to Root LVM
 
 In order to support LVM snapshots on the root volume, we need to:
-  * add some additional storage capacity
-  * partition the disk
-  * add the partition to the root volume group
-  * and finally create logical volume to support the snapshot
-  
-  The following command will take care of all of these steps for you.  The individual steps are also outlined below.
+====
+* add some additional storage capacity
+* partition the disk
+* add the partition to the root volume group
+* and finally create logical volume to support the snapshot
+====
+
+The following command will take care of all of these steps for you.  The individual steps are also outlined below.
 
 .[root@node3]#
 ----
